@@ -14,7 +14,6 @@ fonts:
   mono: Fira Code
 themeConfig:
   primary: '#D97706'
-download: true
 ---
 
 # Claude Code: Практичний воркшоп
