@@ -1,0 +1,19 @@
+{
+  "permissions": {
+    "allow": [
+      "WebSearch",
+      "mcp__plugin_context7_context7__resolve-library-id",
+      "Bash(dir \"C:\\\\Projects\\\\ssa\\\\claude-demo\" /s /b)",
+      "mcp__plugin_context7_context7__query-docs",
+      "WebFetch(domain:sli.dev)",
+      "WebFetch(domain:www.anthropic.com)",
+      "Bash(del \"C:\\\\Projects\\\\ssa\\\\claude-demo\\\\nul\")",
+      "Bash(echo:*)",
+      "Bash(npx:*)",
+      "Bash(start:*)",
+      "Bash(curl:*)",
+      "Bash(cmd.exe //c \"start cmd /k npx slidev --port 3030 --open\")",
+      "Bash(dir:*)"
+    ]
+  }
+}
